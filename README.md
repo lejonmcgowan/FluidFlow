@@ -1,6 +1,8 @@
 # FluidFlow
 
-![](https://imgur.com/7vmbP0h)
+![example fluid simulated from the code](https://github.com/lejonmcgowan/FluidFlow/blob/master/fluinAnimFast.gif?raw=true)
+
+![example fluid in slow motion](https://github.com/lejonmcgowan/FluidFlow/blob/master/fluid_large_sim.gif?raw=true)
 
 Senior Project Fluid solver. Eulerian based, 3D, C++. A simulator made based on the research from Doyub Kim's *fluid engine development*: https://fluidenginedevelopment.org/
 
